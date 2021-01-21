@@ -1,0 +1,60 @@
+.logo ul li {
+    
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    left: 260px;
+    top: 130px;
+}
+.logo ul li img {
+    height: 35px;
+    width: 35px
+}
+.photo img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    left: 150px;
+    
+    
+}
+section {
+    
+    height: 500px;
+    width: 800px;
+    margin: 100px auto auto auto;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    color: indianred;
+}
+h1, p {
+    text-align: center;
+}
+h1 {
+    font-family: 'Times New Roman', times, serif;
+    font-size: 35px;
+}
+p {
+    font-family: lucida handwritting, brush script m7, cursive;
+    font-size: 30px;
+}
+.button {
+    background-color: tomato;
+    padding: 15px 32px;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.but {
+    text-align: center;
+}
+.button:hover {
+    background-color: rgb(245, 44, 9);
+}
+.insta:hover {
+    opacity: 0,5;
+    color: rgb(252, 117, 117);
+}
+

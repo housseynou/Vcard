@@ -6,9 +6,13 @@
     left: 260px;
     top: 130px;
 }
-.logo ul li img {
-    height: 35px;
-    width: 35px
+ i {
+    margin: 0 10px 0 10px;
+    font-size: 35px;
+    transition: transform 1s;
+}
+i:hover {
+    transform: scale(1.2);
 }
 .photo img{
     height: 150px;
@@ -52,9 +56,5 @@ p {
 }
 .button:hover {
     background-color: rgb(245, 44, 9);
-}
-.insta:hover {
-    opacity: 0,5;
-    color: rgb(252, 117, 117);
 }
 
